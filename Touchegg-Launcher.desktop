@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=xTouchegg
+Comment=Start Touchegg
+Icon=/home/mrerror/.runToucheggOnX11/xorg.svg
+Exec= /home/mrerror/.runToucheggOnX11/xtouchegg.sh %F
+Type=Application
+Categories=Script;
+
