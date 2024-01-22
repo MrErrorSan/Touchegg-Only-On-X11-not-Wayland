@@ -2,7 +2,7 @@
 
 ## Touchegg Launcher for X11 to be added in startup applications
 
-![Touchegg Logo](/home/$USER/.runToucheggOnX11/xorg.svg)
+![Touchegg Logo](https://raw.githubusercontent.com/MrErrorSan/Touchegg-Only-On-X11-not-Wayland/main/xorg.svg)
 
 ## Overview
 
